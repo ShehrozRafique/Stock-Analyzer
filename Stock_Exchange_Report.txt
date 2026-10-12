@@ -1,0 +1,18 @@
+-------------
+Stock Analysis Report
+ -------------
+
+Stock Symbol : AAPL
+Total Records : 84
+Basic Statistics
+----------------
+Average Close :  316.21
+Highest Close :  341.07
+Lowest Close :  275.15
+Standard Deviation :  16.21
+
+PREDICTION
+---------
+Estimated Next Price:  334.09
+
+---------------
